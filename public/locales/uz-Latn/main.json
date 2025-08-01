@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "title1": "Eng yaxshi an'analarni saqlaymiz",
+    "title2": "Tajriba orttiramiz",
+    "subTitle1": "Zamonaviy dizayn, maksimal funksionallik",
+    "subTitle2": "sizning individual ehtiyojlaringizga mos ravishda",
+    "button": {
+      "aboutCompany": "Kompaniya haqida",
+      "products": "Mahsulotlar katalogi"
+    }
+  },
+  "about": {
+    "title": "kompaniya haqida",
+    "text": "Bu yupqa tolali paxta etishtirishdan tortib, o'z ishlab chiqarish quvvatlarida tayyor to'qimachilik mahsulotlarini ishlab chiqarishgacha bo'lgan butun ishlab chiqarish tsiklini amalga oshiradigan noyob korxona.",
+    "text2": "Kompaniyamiz O'zbekiston to'qimachilik sanoati bozorida yetakchi hisoblanadi va o'z ishlab chiqarishimiz hamkorlarimizga turli xil modellar va rang sxemalarini tayyor mahsulotlarning keng assortimentini taklif qilish imkonini beradi.",
+    "cards": {
+      "years": "Kompaniya tashkil etilgan yil",
+      "partners": "Doimiy hamkorlar",
+      "employes": "Xodimlar soni"
+    },
+    "button": {
+      "more": "Batafsil"
+    }
+  },
+  "products": {
+    "title": "Mahsulotlar",
+    "button": "Boshqa mahsulotlarni ko‘rish",
+    "el1": {
+      "title": "Mato",
+      "description": "Mato — bu moda, uy bezagi, sanoat va boshqa ko‘plab sohalarda qo‘llaniladigan muhim materialdir. U turli tolalardan — tabiiy yoki sun’iy — tayyorlanishi mumkin."
+    },
+    "el2": {
+      "title": "Yostiq-to‘shak jixozlari",
+      "description": "Yostiq-to‘shak jixozlari — bu moda, uy bezagi, sanoat va boshqa ko‘plab sohalarda qo‘llaniladigan muhim materialdir. U turli tolalardan — tabiiy yoki sun’iy — tayyorlanishi mumkin."
+    },
+    "el3": {
+      "title": "Uy to‘qimachiligi",
+      "description": "Uy to‘qimachiligi — bu moda, uy bezagi, sanoat va boshqa ko‘plab sohalarda qo‘llaniladigan muhim materialdir. U turli tolalardan — tabiiy yoki sun’iy — tayyorlanishi mumkin."
+    }
+  },
+  "lelitAd": {
+    "desc": "Lelit Home Textile brendi 2021-yilda sotuvga chiqarilgan. Bu nafislik, qulaylik va sifatni birlashtirgan uy to'qimachilik brendi.",
+    "button": "Batafsil"
+  },
+  "opportunities": {
+    "title": "Hamkorlik afzalliklari",
+    "desc": "To‘qimachilik fabrikasi — tolalar va iplardan to‘qimachilik mahsulotlarini ishlab chiqaruvchi korxona. Bunday fabrikalarning asosiy faoliyati matolar ishlab chiqarishga qaratilgan.",
+    "button": "Mahsulotlar katalogi",
+    "op1": {
+      "title": "Keng assortiment",
+      "desc": "Reps to‘qimali paxta mato, bir tomonlama yoki ikki tomonlama tekis va siyrak junli. Yumshoq va mayin material, terini bezovta qilmaydi, namlikni yaxshi shimadi va issiqlikni ushlab turadi. Bolalar kiyimlari, ko‘ylaklar, pijamalar, xalatlar tikishda, astar mato sifatida va boshqalarda qo‘llaniladi."
+    },
+    "op2": {
+      "title": "Moslashuvchan hamkorlik shartlari",
+      "desc": "Reps to‘qimali paxta mato, bir tomonlama yoki ikki tomonlama tekis va siyrak junli. Yumshoq va mayin material, terini bezovta qilmaydi, namlikni yaxshi shimadi va issiqlikni ushlab turadi. Bolalar kiyimlari, ko‘ylaklar, pijamalar, xalatlar tikishda, astar mato sifatida va boshqalarda qo‘llaniladi."
+    },
+    "op3": {
+      "title": "Raqobatbardosh narxlar",
+      "desc": "Reps to‘qimali paxta mato, bir tomonlama yoki ikki tomonlama tekis va siyrak junli. Yumshoq va mayin material, terini bezovta qilmaydi, namlikni yaxshi shimadi va issiqlikni ushlab turadi. Bolalar kiyimlari, ko‘ylaklar, pijamalar, xalatlar tikishda, astar mato sifatida va boshqalarda qo‘llaniladi."
+    }
+  },
+  "advantages": {
+    "title": "BIZNING AFZALLIKLARIMIZ",
+    "subtitle": "Biz yuqori texnologiyali uskunalarga egamiz, bu esa bozorda eng talab qilinadigan to'qimachilik mahsulotlarini ishlab chiqarish imkonini beradi. Biz siz va biznesingiz uchun qulay shart-sharoitlar yaratamiz.",
+    "item1": {
+      "title": "Biz ishlab chiqaruvchimiz",
+      "text": "Yuqori sifatli paxtani yetishtirishdan tortib tayyor to'qimachilik mahsulotigacha bo'lgan to‘liq ishlab chiqarish jarayoniga ega korxona. Bu mahsulot sifatini har bir bosqichda nazorat qilish imkonini beradi."
+    },
+    "item2": {
+      "title": "Imkoniyatlar",
+      "text": "Yuqori texnologiyali ishlab chiqarish sizning talablaringizga javob beradigan yuqori sifatli mahsulotlarni yaratishga imkon beradi."
+    },
+    "item3": {
+      "title": "Doimiy rivojlanish",
+      "text": "Biz erishilgan yutuqlar bilan cheklanib qolmaymiz, chunki ishlab chiqarish samaradorligini oshirish va takomillashtirish — bu cheksiz va qiziqarli jarayon."
+    }
+  },
+  "partners": {
+    "title": "Hamkorlarimiz",
+    "desc": "To‘qimachilik fabrikasi — tolalar va iplardan to‘qimachilik mahsulotlarini ishlab chiqaruvchi korxona. Bunday fabrikalarning asosiy faoliyati matolar ishlab chiqarishga qaratilgan."
+  },
+  "contactUs": {
+    "title": "Biz bilan bog‘laning",
+    "desc": "To‘qimachilik fabrikasi — tolalar va iplardan to‘qimachilik mahsulotlarini ishlab chiqaruvchi korxona. Bunday fabrikalarning asosiy faoliyati matolar ishlab chiqarishga qaratilgan.",
+    "cards": {
+      "phone": "Telefon raqami",
+      "email": "Elektron pochta manzili",
+      "addres": "Manzil",
+      "addressText": "Manzil: Samarqand sh., Spitamenshox ko'ch., 270",
+      "tg": "Telegram kanali",
+      "inst": "Instagram",
+      "face": "Facebook"
+    }
+  }
+}

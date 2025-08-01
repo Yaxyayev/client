@@ -1,0 +1,89 @@
+{
+  "header": {
+    "title": "Kompaniya haqida",
+    "subtitle": "To‘qimachilik fabrikasi — tolalar va iplardan to‘qimachilik mahsulotlarini ishlab chiqarishga ixtisoslashgan korxona."
+  },
+  "content": {
+    "title": "Kompaniya haqida",
+    "intro": "2014 yilda tashkil etilgan 'Samarkand Euro Asia Textile' kompaniyasi kamtarona korxonadan to'qimachilik mahsulotlarini ishlab chiqaruvchi yetakchi kompaniyalardan biriga aylandi. Bugungi kunda Samarkand Euro Asia Textile O'zbekistondagi SAG GROUP yirik ishlab chiqarish xoldingiga kiradi.",
+    "intro2": "Bu yupqa tolali paxta etishtirishdan tortib, o'z ishlab chiqarish quvvatlarida tayyor to'qimachilik mahsulotlarini ishlab chiqarishgacha bo'lgan butun ishlab chiqarish tsiklini amalga oshiradigan noyob korxona.",
+    "intro3": "Kompaniyamiz O'zbekiston to'qimachilik sanoati bozorida yetakchi hisoblanadi va o'z ishlab chiqarishimiz hamkorlarimizga turli xil modellar va rang sxemalarini tayyor mahsulotlarning keng assortimentini taklif qilish imkonini beradi.",
+    "functions_title": "To‘qimachilik kompaniyasining asosiy funksiyalari",
+    "functions": {
+      "f1": {
+        "title": "Matolar ishlab chiqarish",
+        "desc": "To‘qimachilik kompaniyalari tabiiy (paxta, zig‘ir, jun) va sintetik (poliester, naylon) materiallardan turli matolarni ishlab chiqaradi."
+      },
+      "f2": {
+        "title": "Dizayn va ishlab chiqish",
+        "desc": "Ko‘plab kompaniyalar noyob dizayn va kolleksiyalar ishlab chiqish bilan shug‘ullanadi, bu ularga bozorda ajralib turishga yordam beradi."
+      },
+      "f3": {
+        "title": "Ulgurji va chakana savdo",
+        "desc": "Kompaniyalar mahsulotlarini ulgurji va chakana savdoda sotish orqali do‘konlar va yakuniy iste’molchilarga yetkazib beradilar."
+      }
+    },
+    "conclusion": "To‘qimachilik sanoati eng qadimiy va eng talab yuqori bo‘lgan sohalardan biridir, u kiyim-kechak, uy tekstili va boshqa mahsulotlarga bo‘lgan ehtiyojni qondiradi. To‘qimachilik kompaniyalari iqtisodiyotda muhim rol o‘ynaydi, ish o‘rinlari yaratadi va boshqa sohalarning rivojlanishiga hissa qo‘shadi."
+  },
+  "timeline": {
+    "header": "Ishlab chiqarish tarixi",
+    "2014": {
+      "title": "Birinchi tikuvchilik sexini ishga tushirdik",
+      "desc": "Kuniga 300 ta ko‘ylak ishlab chiqarilgan."
+    },
+    "2016": {
+      "desc": "Ishlab chiqarish hajmini kuniga 1000 ta ko‘ylakkacha oshirdik"
+    },
+    "2017": {
+      "desc": "Ishlab chiqarish hajmini kuniga 1500 dona ko‘ylakkacha oshirdik"
+    },
+    "2018": {
+      "desc": "Matoni pardozlash sexining ishga tushirilishi kuniga 9000 - 12 000 metr mato bo‘yaldi"
+    },
+    "2019": {
+      "desc": "34 ta stanokli (17 ta tor va 17 ta keng stanokli) to‘quv sexini ishga tushirish"
+    },
+    "2020": {
+      "desc": "Unumdorlik oyiga 400 000 metr matogacha oshdi"
+    },
+    "2021": {
+      "desc": [
+        "Lelit uy to‘qimachiligi savdo belgisini ishga tushirish",
+        "Birinchi chakana savdo do‘koni ochildi.",
+        "Ishlab chiqarish kuniga 500 komplektgacha o‘sdi"
+      ]
+    },
+    "2022": {
+      "desc": [
+        "To‘quv sexini 80 ta dastgohgacha kengaytirish,",
+        "Nukus shahrida qo‘shimcha tikuvchilik sexi ochildi"
+      ]
+    },
+    "2023": {
+      "desc": [
+        "Turli formatdagi yana 5 ta Lelit do‘koni ochildi",
+        "SAG gilam do‘konlaridagi kornerlar va ularning Toshkentdagi firma do‘konlari",
+        "O‘z savdo belgisi assortimentini rivojlantirish"
+      ]
+    },
+    "2024": {
+      "desc": [
+        "22 ta stanokda maxra ishlab chiqarishni yo‘lga qo‘yish. Muslin ishlab chiqarish texnologiyasini takomillashtirish",
+        "Lelitning Yekaterinburgdagi SAG firma do‘konidagi birinchi chakana savdosi",
+        "Rossiyada tayyor mahsulotlar ombori ochildi",
+        "Faxriy nishon bilan ishlashning asosiy jarayonlari"
+      ]
+    },
+    "2025": {
+      "desc": [
+        "Barcha sexlardagi uskunalarni, shu jumladan bo‘yash, yuvish va rang laboratoriyalari uskunalarini ishga tushirish va yangilash",
+        "Pishirilgan paxta texnologiyasini ishga tushirish",
+        "Rossiya Federatsiyasida TM Lelitni ro‘yxatdan o‘tkazish",
+        "Moskvadagi Lelit burchaklari SAG do‘konidagi aviatsiya parki",
+        "O‘z kiyim brendini ishga tushirish",
+        "Sochiqlar va maxradan buyumlar tikish bo‘yicha qo‘shimcha tikuvchilik sexi ochish",
+        "Chexiyada vakolatxona ochish"
+      ]
+    }
+  }
+}

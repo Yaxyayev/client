@@ -1,26 +1,96 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@font-face {
+  font-family: 'SF-Pro-Display';
+  src: url('/fonts/SF-Pro-Display-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@font-face {
+  font-family: 'SF-Pro-Display';
+  src: url('/fonts/SF-Pro-Display-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@font-face {
+  font-family: 'SF-Pro-Display';
+  src: url('/fonts/SF-Pro-Display-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF-Pro-Display';
+  src: url('/fonts/SF-Pro-Display-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF-Pro-Display';
+  src: url('/fonts/SF-Pro-Display-Black.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  font-family: 'SF-Pro-Display', sans-serif !important;
+}
+
+/* PartnersLogoCarousel скрыть scrollbar но оставить возможность скролла */
+.inline-flex::-webkit-scrollbar {
+  display: none;
+}
+.inline-flex {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.leaflet-bottom {
+  display: none;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  min-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+/* Мобильные устройства (до 767px) */
+@media (max-width: 767px) {
+  .container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+/* Планшеты (768px - 1023px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .container {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+/* Десктопы (1024px и выше) */
+@media (min-width: 1024px) {
+  .container {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+
+.btn_filled {
+  @apply py-3 rounded-full bg-white text-[#081B24];
+}
+
+.btn_outline {
+  @apply border border-[#ffffffbc] py-3 rounded-full text-white;
 }
